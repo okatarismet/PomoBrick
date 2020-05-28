@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+  
 }
 
 .App-logo {
@@ -23,10 +25,17 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+/* .App-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+} */
 
 .App-link {
   color: #61dafb;
 }
+
 
 @keyframes App-logo-spin {
   from {
